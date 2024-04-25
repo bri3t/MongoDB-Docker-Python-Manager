@@ -23,7 +23,7 @@ Per obtenir una còpia del projecte a la teva màquina local per al desenvolupam
 3. Escriu el següent comandament i prem `Enter` per crear una còpia local del repositori:
 
    ```bash
-   git clone https://github.com/usuari/nom-del-repositori.git
+   git clone https://github.com/bri3t/MongoDB-Docker-Python-Manager.git
    ```
 Configuració de l'Entorn
 ------------------------
